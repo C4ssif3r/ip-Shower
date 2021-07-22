@@ -1,9 +1,14 @@
-import os                                                              os.system("pip install socket")
-os.system("pip install requests")                                      os.system("pip install colorama")
-os.system("pip install time")                                          os.system("clear")
-#_________________                                                     import requests
-import time                                                            import socket
-                                                                       import colorama
+import os
+os.system("pip install socket")
+os.system("pip install requests")
+os.system("pip install colorama")
+os.system("pip install time")
+os.system("clear")
+#_________________
+import requests
+import time
+import socket
+import colorama
 from colorama import Fore, init
 #//////
 
@@ -27,7 +32,7 @@ print("")
 print(Fore.GREEN+"")
 
 get = input("""ENTER YOUR METHOD
-$_""")
+>_""")
 
 if get == "1":
 
