@@ -1,2 +1,3 @@
 # ip-Shower
-ip- shower.py
+run =
+python ip-shower.py
