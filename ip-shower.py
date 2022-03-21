@@ -49,4 +49,9 @@ if get == "2":
         public = requests.get("https://api.ipify.org").text
         print("")
         print("")
+        time.sleep(3)
         print (Fore.GREEN+"Your public IP :",Fore.RED + public)
+else:
+        print (Fore.RED+'[×]'+Fore.YELLOW+' command invalid')
+        input ('Press enter for exit')
+         
