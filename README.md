@@ -11,7 +11,7 @@ With the help ip-Shower You can show and get the IP address valid and local ip
 
 `python ip-shower.py`
 
-# How to download (step by step)
+# How to download (step by step):
 
 `git clone https://github.com/C4ssif3r/ip-Shower`
 
