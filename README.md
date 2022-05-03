@@ -1,4 +1,4 @@
- ip-Shower
+About for ip-Shower simple python tool :
 
 # screenshot
 
