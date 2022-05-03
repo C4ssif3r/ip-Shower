@@ -26,9 +26,9 @@ With the help ip-Shower You can show and get the IP address valid and local ip
 # How to download (step by step):
 
     git clone https://github.com/C4ssif3r/ip-Shower
-.
+    
     cd ip-Shower
-.
+    
     python ip-shower.py
 
 
