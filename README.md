@@ -13,11 +13,11 @@ With the help ip-Shower You can show and get the IP address valid and local ip
 
 # But what does this do for us?
 
-    When you have creating a meterpreter payload 
+  When you have creating a meterpreter payload 
 
-    You need an ip address! That address belongs to you!
+  You need an ip address! That address belongs to you!
 
-    With this very simple market, you can easily access your IP address!
+  With this very simple market, you can easily access your IP address!
 
 # Just type this :
 
@@ -25,11 +25,11 @@ With the help ip-Shower You can show and get the IP address valid and local ip
 
 # How to download (step by step):
 
-    `git clone https://github.com/C4ssif3r/ip-Shower`
+    git clone https://github.com/C4ssif3r/ip-Shower
 
-‌    `cd ip-Shower`
+‌    cd ip-Shower
 
-    `python ip-shower.py`
+    python ip-shower.py
 
 
 # tested on LINUX and TERMUX
