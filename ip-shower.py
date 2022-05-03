@@ -10,6 +10,7 @@ import time
 import socket
 import colorama
 from colorama import Fore, init
+import sys
 #//////
 
 init()
@@ -24,15 +25,17 @@ print (Fore.GREEN+ """
   |_| 
 
 """)
-print (Fore.YELLOW+"""
-METHODS = 
-1 FOR GET IP_LOCAL
-2 FOR GET IP PUBLIC""")
+print (Fore.BLUE+"""
+METHODS: 
+
+1 FOR GET IP LOCAL
+
+2 FOR GET IP PUBLIC {Global ip}""")
 print("")
 print(Fore.GREEN+"")
 
-get = input("""ENTER YOUR METHOD
->_""")
+get = input("""ENTER YOUR METHOD 1 or 2
+>_ """)
 
 if get == "1":
 
@@ -54,4 +57,5 @@ if get == "2":
 else:
         print (Fore.RED+'[×]'+Fore.YELLOW+' command invalid')
         input ('Press enter for exit')
+        sys.exit()
          
